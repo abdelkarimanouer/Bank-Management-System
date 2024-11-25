@@ -1,0 +1,27 @@
+D:\Programming\Full Projects\BankbusinessLayer\bin\Debug\BankbusinessLayer.dll
+D:\Programming\Full Projects\BankbusinessLayer\bin\Debug\BankbusinessLayer.pdb
+D:\Programming\Full Projects\BankbusinessLayer\bin\Debug\BankDataAccess.dll
+D:\Programming\Full Projects\BankbusinessLayer\bin\Debug\BankDataAccess.pdb
+D:\Programming\Full Projects\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.AssemblyReference.cache
+D:\Programming\Full Projects\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Full Projects\BankbusinessLayer\obj\Debug\Bankbusi.72B28644.Up2Date
+D:\Programming\Full Projects\BankbusinessLayer\obj\Debug\BankbusinessLayer.dll
+D:\Programming\Full Projects\BankbusinessLayer\obj\Debug\BankbusinessLayer.pdb
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\bin\Debug\BankbusinessLayer.dll
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\bin\Debug\BankbusinessLayer.pdb
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\bin\Debug\BankDataAccess.dll
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\bin\Debug\BankDataAccess.pdb
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.AssemblyReference.cache
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\obj\Debug\Bankbusi.72B28644.Up2Date
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\obj\Debug\BankbusinessLayer.dll
+D:\Programmer\Full Projects\Bank Management System\BankbusinessLayer\obj\Debug\BankbusinessLayer.pdb
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\bin\Debug\BankbusinessLayer.dll
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\bin\Debug\BankbusinessLayer.pdb
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\bin\Debug\BankDataAccess.dll
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\bin\Debug\BankDataAccess.pdb
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.AssemblyReference.cache
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\obj\Debug\BankbusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\obj\Debug\Bankbusi.72B28644.Up2Date
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\obj\Debug\BankbusinessLayer.dll
+D:\Programmer\FullProjects\BankManagementSystem\BankbusinessLayer\obj\Debug\BankbusinessLayer.pdb

@@ -1,0 +1,18 @@
+D:\Programming\Full Projects\BankDataAccess\bin\Debug\BankDataAccess.dll
+D:\Programming\Full Projects\BankDataAccess\bin\Debug\BankDataAccess.pdb
+D:\Programming\Full Projects\BankDataAccess\obj\Debug\BankDataAccess.csproj.AssemblyReference.cache
+D:\Programming\Full Projects\BankDataAccess\obj\Debug\BankDataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\Full Projects\BankDataAccess\obj\Debug\BankDataAccess.dll
+D:\Programming\Full Projects\BankDataAccess\obj\Debug\BankDataAccess.pdb
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\bin\Debug\BankDataAccess.dll
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\bin\Debug\BankDataAccess.pdb
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\obj\Debug\BankDataAccess.csproj.AssemblyReference.cache
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\obj\Debug\BankDataAccess.csproj.CoreCompileInputs.cache
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\obj\Debug\BankDataAccess.dll
+D:\Programmer\Full Projects\Bank Management System\BankDataAccess\obj\Debug\BankDataAccess.pdb
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\bin\Debug\BankDataAccess.dll
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\bin\Debug\BankDataAccess.pdb
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\obj\Debug\BankDataAccess.csproj.AssemblyReference.cache
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\obj\Debug\BankDataAccess.csproj.CoreCompileInputs.cache
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\obj\Debug\BankDataAccess.dll
+D:\Programmer\FullProjects\BankManagementSystem\BankDataAccess\obj\Debug\BankDataAccess.pdb

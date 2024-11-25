@@ -1,0 +1,245 @@
+C:\Users\DELL\source\repos\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\DELL\source\repos\Bank System\bin\Debug\Bank System.exe
+C:\Users\DELL\source\repos\Bank System\bin\Debug\Bank System.pdb
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank_System.frmLogin.resources
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank System.exe
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank System.pdb
+C:\Users\DELL\source\repos\Bank System\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank Sys.86235B94.Up2Date
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank_System.frmMain.resources
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank_System.frmClients.resources
+C:\Users\DELL\source\repos\Bank System\obj\Debug\Bank_System.frmClientsList.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\bin\Debug\Bank System.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\bin\Debug\Bank System.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmClients.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmClientsList.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmLogin.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmMain.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank Sys.86235B94.Up2Date
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank System.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank System.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmAddClient.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmDeleteClient.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmFindClient.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmUpdateClient.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmUsers.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmUsersList.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmAddUser.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programming\C# Projects\Bank System\bin\Debug\Bank System.exe.config
+D:\Programming\C# Projects\Bank System\bin\Debug\Bank System.exe
+D:\Programming\C# Projects\Bank System\bin\Debug\Bank System.pdb
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmAddClient.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmClients.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmClientsList.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmDeleteClient.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmFindClient.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmLogin.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmMain.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmUpdateClient.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Properties.Resources.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmAddUser.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmUsers.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmUsersList.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank System.exe
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank System.pdb
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmFindUser.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmUpdateUser.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.User.frmPermissions.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Client.frmWithraw.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+D:\Programming\C# Projects\Bank System\obj\Debug\Bank_System.frmLoginRegister.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmAddClient.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmClients.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmClientsList.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmDeleteClient.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmFindClient.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmLoginRegister.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Client.frmWithraw.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmLogin.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmMain.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.frmUpdateClient.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Properties.Resources.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmAddUser.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmFindUser.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmPermissions.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmUpdateUser.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmUsers.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank_System.User.frmUsersList.resources
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank System.exe
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank System.pdb
+D:\Programming\Full Projects\Bank System File version\bin\Debug\Bank System.exe.config
+D:\Programming\Full Projects\Bank System File version\bin\Debug\Bank System.exe
+D:\Programming\Full Projects\Bank System File version\bin\Debug\Bank System.pdb
+D:\Programming\Full Projects\Bank System File version\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\Programming\Full Projects\Bank Management System\bin\Debug\Bank System.exe.config
+D:\Programming\Full Projects\Bank Management System\bin\Debug\Bank System.exe
+D:\Programming\Full Projects\Bank Management System\bin\Debug\Bank System.pdb
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmAddClient.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmClients.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmClientsList.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmDeleteClient.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmFindClient.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmLoginRegister.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Client.frmWithraw.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmLogin.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmMain.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.frmUpdateClient.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Properties.Resources.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmAddUser.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmFindUser.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmPermissions.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmUpdateUser.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmUsers.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank_System.User.frmUsersList.resources
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank System.exe
+D:\Programming\Full Projects\Bank Management System\obj\Debug\Bank System.pdb
+D:\Programming\Full Projects\Bank Management System\bin\Debug\BankbusinessLayer.dll
+D:\Programming\Full Projects\Bank Management System\bin\Debug\BankDataAccess.dll
+D:\Programming\Full Projects\Bank Management System\bin\Debug\BankbusinessLayer.pdb
+D:\Programming\Full Projects\Bank Management System\bin\Debug\BankDataAccess.pdb
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\Bank System.exe.config
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\Bank System.exe
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\Bank System.pdb
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\BankbusinessLayer.dll
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\BankDataAccess.dll
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\BankbusinessLayer.pdb
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\bin\Debug\BankDataAccess.pdb
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmAddClient.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmClients.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmClientsList.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmDeleteClient.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmFindClient.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmLoginRegister.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Client.frmWithraw.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmLogin.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmMain.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.frmUpdateClient.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Properties.Resources.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmAddUser.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmFindUser.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmPermissions.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmUpdateUser.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsers.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsersList.resources
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank System.exe
+D:\Programmer\Full Projects\Bank Management System\Bank System PresLayer\obj\Debug\Bank System.pdb
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\Bank System.exe.config
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\Bank System.exe
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\Bank System.pdb
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\BankbusinessLayer.dll
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\BankDataAccess.dll
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\BankbusinessLayer.pdb
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\bin\Debug\BankDataAccess.pdb
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank System.csproj.AssemblyReference.cache
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmAddClient.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmClients.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmClientsList.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmDeleteClient.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmFindClient.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmLoginRegister.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Client.frmWithraw.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmLogin.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmMain.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.frmUpdateClient.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Properties.Resources.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmAddUser.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmDeleteUser.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmFindUser.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmPermissions.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmUpdateUser.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsers.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsersList.resources
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank System.csproj.GenerateResource.cache
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank Sys.86235B94.Up2Date
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank System.exe
+D:\Programmer\FullProjects\BankManagementSystem\Bank System PresLayer\obj\Debug\Bank System.pdb
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\Bank System.exe.config
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\Bank System.exe
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\Bank System.pdb
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\BankbusinessLayer.dll
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\BankDataAccess.dll
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\BankbusinessLayer.pdb
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\bin\Debug\BankDataAccess.pdb
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmAddClient.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmClients.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmClientsList.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmDeleteClient.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmFindClient.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmLoginRegister.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransferLog.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Client.frmWithraw.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmLogin.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmMain.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.frmUpdateClient.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Properties.Resources.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmDeposite.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTotalBalances.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransaction.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.Transaction.frmTransfer.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmAddUser.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmDeleteUser.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmFindUser.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmPermissions.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmUpdateUser.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsers.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank_System.User.frmUsersList.resources
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank System.csproj.GenerateResource.cache
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank Sys.86235B94.Up2Date
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank System.exe
+C:\Users\anoue\Downloads\Bank-System-master\Bank System PresLayer\obj\Debug\Bank System.pdb
