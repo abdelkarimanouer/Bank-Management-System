@@ -11,7 +11,7 @@ To run the project, follow these steps:
    FROM DISK = 'C:\BankSystemDB.bak'
    ```
 
-### 4- Once the database is restored, you can use the project.
+### 4- After restoring the database, open the Bank System.sln file located in the Bank System PresLayer folder to run the application.
 
 # Note:
 Make sure SQL Server is running and you have permissions to restore databases.
