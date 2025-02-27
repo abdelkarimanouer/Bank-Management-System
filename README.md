@@ -3,7 +3,7 @@
 To run the project, follow these steps:
 
 ### 1- Copy the file `BankSystemDB.bak` from the `DataBase Of Project` folder in the project to the `C:\` drive.  
-### 2- Open SQL Server Management Studio (SSMS). If you don’t have it, download and install it first.  
+### 2- Open SQL Server Management Studio (SSMS). If you don’t have it, download and install it first.
 ### 3- Run the following query in SSMS to restore the database:  
 
    ```sql
